@@ -7,7 +7,7 @@ A basic Kotlin app to practice retrieving data from the Internet with Retrofit/R
 - Search by city names <br>
 - Swipe to update the content <br>
 
-## Technologies
+## Technologies Used
 - MVVM structure <br>
 - Retrofit <br>
 - RxJava <br>
