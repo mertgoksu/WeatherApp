@@ -11,6 +11,7 @@ A basic Kotlin app to practice retrieving data from the Internet with Retrofit/R
 - MVVM structure <br>
 - Retrofit <br>
 - RxJava <br>
+- Activities <br>
 - XML <br>
 
 ### Here are some photos and videos of the app ;
