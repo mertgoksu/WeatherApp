@@ -14,8 +14,9 @@ A basic Kotlin app to practice retrieving data from the Internet with Retrofit/R
 - Activities <br>
 - XML <br>
 
-### Here are some photos and videos of the app ;
-<br>
+#
+### Here are some photos and videos of the app;
+#
 
 <img width="322" alt="1" src="https://github.com/mertgoksu/WeatherApp/assets/119433132/1ad16e6e-5514-44e0-a3ff-271db5f4f758">
 <img width="322" alt="1" src="https://github.com/mertgoksu/WeatherApp/assets/119433132/46037c51-5d7c-44b8-82ac-656ef474b7ba">
